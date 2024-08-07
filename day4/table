@@ -1,0 +1,86 @@
+<!--
+  The first topic is comments
+
+
+-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        thead{color: red; font-size: 25px;
+
+        }
+        tfoot{
+            color: aqua; font-size: 25px;
+        }
+        tbody{
+            color:black; font-size: 15px;
+        }
+    </style>
+    <title>Day4 html tables</title>
+</head>
+<body>
+    
+    <table width="75%" height="50%" border="1" cellpadding="20" cellspacing="5" >
+       <caption style="color:red;"><h1>STUDENT TABLE</h1></caption>
+       <tr>
+        <thead>
+         <th>s:no</th>
+         <th>name of the student</th>
+         <th>Roll no</th>
+         <th>section</th>
+         <th>Grade</th>
+        </thead>
+       </tr>
+       <tr>
+        <tbody>
+        <td>1</td>
+        <td>naga uday kiran</td>
+        <td>20E11A0583</td>
+        <td>Cse-A</td>
+        <td>6.5</td>
+       </tr>
+       <tr>
+        <td>2</td>
+        <td>Deepak vizag</td>
+        <td>20E11A0575</td>
+        <td>Cse-D</td>
+        <td>8.0</td>
+       </tr>
+       <tr>
+        <td>3</td>
+        <td>karthik</td>
+        <td>20E11A0569</td>
+        <td>Cse-B</td>
+        <td>10.0</td>
+       </tr>
+       <tr>
+        <td>4</td>
+        <td>shiva</td>
+        <td>20E11A0570</td>
+        <td>Cse-C</td>
+        <td>9.0</td>
+       </tr>
+       <tr>
+        <td>5</td>
+        <td>rakesh</td>
+        <td>20E11A0513</td>
+        <td>Cse-D</td>
+        <td>9.5</td>
+    </tbody>
+       </tr>
+       <tr>
+        <tfoot>
+        <th>total</th>
+        <th>5 students</th>
+        <th>5 roll nos</th>
+        <th>cse</th>
+        <th>total grade</th>
+    </tfoot>
+       </tr>
+    </table>
+
+</body>
+</html>

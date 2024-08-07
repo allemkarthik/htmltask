@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>day2</title>
+    </head>    
+    <body>
+        <center>
+        <h1>BHARAT INSTITUTE OF ENGINEERING AND TECHNOLOGY</h1>
+    </center>
+
+        <h2>ABOUT US</h2>
+        <P>Bharat Institute of Engineering & Technology (BIET), established in 2001 by Chinta Reddy Madhusudhan Reddy Educational Society (CHMR) under the leadership of Sri Ch. Venugopal Reddy, an eminent educationist with a social conscience and commitment. It has grown in its size and stature over the years, from an initial intake of 240 to 1350 students. BIET is one of the largest Engineering Colleges in Telangana. It offers 10 B.Tech programs, 8 M.Tech programs and 1 MBA program. With consistent and excellent academic performance of students in the University examinations, the Institute has endeared itself to many students and parents. Bharat Institute of Engineering & Technology (BIET) boasts of well experienced and highly qualified faculty, State-of-the-art Infrastructure, regular placements and well equipped laboratories.</P>
+        <h2>LOCATION</h2>
+        <pre>            Mangalpally (V),
+
+            Ibrahimpatnam (M)
+            
+            Ranga Reddy (D)
+            
+            Hyderabad-501 510
+            
+            Telangana, India.</Pre>
+        <h2>DIRECTOR</h2>
+        <P>Prof. G. Kumaraswamy Rao, Director (R&D), BIET (Former Director & O.S. of DLRL Ministry of Defence)
+
+            Prof. G. Kumaraswamy, former director of Defence Electronics Research Lab an Electronics Systems Engineering Centre, was associated in work with Dr. A. P. J. Abdul Kalam in the "Integrated Guided Missile Program, and was personally responsible for the design and development of a number of missile guidance electronic systems for Trishul, Prithvi and Akash missiles" .He has also designed the ground guidance electronic system for India’s first short range surface to air missile. Prof. G. Kumaraswamy is the Director of R&D at Bharat Institute of Engineering and Technology.</P>
+        <h2>DEPARTMENTS</h2>
+        <pre>            CSE
+            CSE(AI&ML)
+            CSE(Data Science)
+            CSE(Cyber Security)
+            ECE
+            IT
+            EEE
+            ME
+            CE
+            S&H
+            MBA</pre>
+        <h2>PLACEMENTS</h2>
+        <P>To train the students to meet the expectations of the industry through our Campus Recruitment Training (CRT) program .
+
+            To provide exposure to the students about the happenings with various Industries through our Institute- Industry Collaboration. This is to make them understand the dynamic industrial environment and to keep them updated technically.
+          
+            To provide excellent placement support to our students by inviting eminent recruiters to our Institution recruit them through our Campus Recruitment Program.</P>
+        
+        <h2>ADMISSIONS</h2>
+        <P>he minimum qualification for admission to first year of the B.Tech course is a pass in the Intermediate (10 + 2) conducted by the board of Intermediate education, Govt. of Telangana or any other examination recognized as equivalent to with Mathematics, Physics and Chemistry as optional subjects. Admissions to the College are made along with the other Engineering Colleges in the State through a common entrance test (EAMCET) conducted by the Govt. of Telangana.
+
+            70 % of the seats are allotted based on the merit in the EAMCET conducted by Govt. of Telangana.
+         
+            30 % of the seats are embarked for Management / NRI candidates. In addition to the above, Diploma holders are admitted in second year of B.Tech to the extent of 20% of intake based on the merit in the Engineering Common Entrance Test (ECET), under lateral entry scheme conducted by Govt. of Telangana.</P>
+        <h2>CONTACT INTORMATION</h2>
+        <pre>            2-1-444
+
+            Nallakunta
+            
+            O.U. Road
+            
+            Hyderabad - 500 044
+            
+            Telangana, India.
+            
+            (040) 27676372, 27645846
+            
+            (08414) 252648
+            
+            info@biet.ac.in, admission@biet.ac.in
+            
+            </pre>
+        </body>
+</html>
